@@ -1,4 +1,4 @@
-schema:                            # required
+schema:                            # required test
   format:                          # required
     openapi: "3.0.0"               # required
   # required              defined by administrator
